@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "title": "Pasta Carbonara",
+    "ingredients": ["pasta", "eggs", "parmesan", "bacon"],
+    "instructions": "Boil pasta. Cook bacon. Mix with eggs and cheese."
+  }
+]
